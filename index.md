@@ -4,7 +4,11 @@
 
 ![Image of Spongebob Squarepants](http://images6.fanpop.com/image/photos/33200000/Spongebob-spongebob-squarepants-33210738-2284-2140.jpg)
 
+'''
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+'''
 
+'''
 var myVar = "Hello, world!";
+'''
